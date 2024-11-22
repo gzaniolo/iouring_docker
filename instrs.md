@@ -4,6 +4,10 @@
 
 Some stuff is not working, but I figured it would be better to get a preliminary version out so you can at least get programming io uring.
 
+Most notably, 
+- restarting the container never works
+- for some reason running without pgbouncer stopped working
+
 ## Actual instrs
 
 ### Create docker
